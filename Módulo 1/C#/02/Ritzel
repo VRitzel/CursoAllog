@@ -1,1 +1,59 @@
+Aula 02:
 
+Introdução ao C#
+  - Lançada em 2002 (Microsoft)
+  
+  - Versão atual: 11
+  
+  - Multiparadigma:
+    - POO
+    - Estruturada
+    - Funcional
+  
+  - Exemplos:
+    - Unity
+    - Unreal
+    - EA
+    - Amazon
+    - Intel
+    - Stack Overflow
+    - Microsoft
+  
+  - Baseada em C++/Java
+  
+  - Vantagens
+    - Pode ser executado em vários os
+    - Fácil de aprender
+    - Recursos para produtividade
+    - Linguagem segura, com recursos como garbage colector
+  
+  - Desvantagens
+    - Depende do ecossistema da MS
+    - Precisa de uma VM
+    - Curva de aprendizado íngreme
+    - Licenciamento e custo
+    - Portabilidade
+  
+  - Visual Studio
+    - using System: tipos básicos do sistema
+      - Collections.Generic: Listas
+      - Linq: Funcionalidade da linguagem de consulta, poderá percorrer arrays
+      - Text: Manipulação de texto
+      - Threading.Tasks: Permite que o código seja executado em threads separadas
+    - Internal: Pode ser usado só quem está dentro do projeto
+    
+  - VS Code
+    - Instalar .NET
+    - Extensão do VS Code (C#)
+    - Criar projeto
+    - Eecutar no terminal o comando: dotnet new console
+    - Rodar o projeto
+    - Executar no terminal o comando: dotnet run
+    
+Variável
+- Definição explícita: declarar o tipo explicitamente, como int, bool, string, etc
+- Definição implícita: var
+- Dynamic: Serve para alterar o tipo de uma mesma variável, como uma variável int para string
+  - Deve ser utilizado com cuidado
+
+ 
