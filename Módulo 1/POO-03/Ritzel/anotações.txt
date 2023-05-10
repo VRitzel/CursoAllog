@@ -1,1 +1,85 @@
+Aula 03:
+O que é POO?
+  - Forma especial de programar/+próximo a objetos do mundo real
+
+Conceitos:
+  - Classe: "template"
+  - Objeto: variação da classe, uma classe com seus valores definidos
+  - Atributos: as características do objeto
+  - Métodos: o que o objeto faz
+  
+  Ex:
+    Cavalo (classe)
+      - Nome
+      - Raça
+      - Tipo
+      - Peso
+      - Altura
+      - Coloração
+      - Sexo 
+      - Idade
+      - Valor
+      
+    Cavalo (objeto)
+      (atributos)
+        - Nome: Juan
+        - Raça: Árabe
+        - Tipo: Corredor
+        - Peso: 450
+        - Altura: 1,50
+        - Coloração: Marrom
+        - Sexo: M
+        - Idade: 7
+        - Valor: 350
+      (métodos)
+        - dormir();
+        - correr();
+        - andar();
+        - necessidades();
+        
+Princípios:
+  - Abstração: Modelação dos atributos e interações relevantes de entidades como classes para definir uma representação abstrata de um sistema
+  - Encapsulamento: Ocultar o estado interno e a funcionalidade do objeto, permitindo apenas o acesso por meio de um conjunto público de funções
+  - Herança: Capacidade de criar novas abstrações com base em abstrações existentes
+  - Polimorfismo: Capacidade de implementar propriedades ou métodos herdados de diferentes maneiras em várias abstrações
+    - Sobrescrita: Mesmo método, comportamento diferente
+    - Sobrecarga: Métodos repetidos com parâmetros diferentes
+    - Sobrecarga de construtores: é um método especial que tem o mesmo nome da classe e garante a alocação de memória necessária para cada objeto da classe
+      - Ex: new Cavalo();
+  
+Falar de POO é pensar em diagramas (UML)
+Ex:
+  Produto
+    - codigo: int
+    - nome: string
+    - desc: string
+    - preco_compra: decimal
+    - preco_venda: decimal
+    - qtd_estoque: int
+    - ativo: bool
+    - data_cadastro: DateTime
+    + inserir(): void
+    + alterar(): void
+    + excluir(): void
+    + pesquisar(): void
+    
+Tipos de acesso:
+  public: todos podem acessar
+  private: é permitido somente dentro da classe onde ele foi declarado. Por padrão, é a visibilidade definida para métodos e atributos em uma classe. 
+  protected: acessado pelas proprias classes
+  
+Tipos de relacionamento:
+  Multiplicidade:
+    (1-1) uma e somente uma
+    (0-1) nenhuma ou uma
+    (0-N) nenhuma ou várias
+    (1-N) uma ou várias
+    
+  Associação:
+    - Agregação: está contida (diamante branco)
+      - Marinha contém navios
+    - Composição: obrigação, um não pode existir sem o outro (diamante preto)
+      - Pedido possui itemPedido
+    
+
 
