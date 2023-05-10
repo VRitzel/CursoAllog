@@ -1,0 +1,6 @@
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\bin\Debug\Exercício 07.exe.config
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\bin\Debug\Exercício 07.exe
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\bin\Debug\Exercício 07.pdb
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\obj\Debug\Exercício 07.csproj.CoreCompileInputs.cache
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\obj\Debug\Exercício 07.exe
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 07\Exercício 07\obj\Debug\Exercício 07.pdb

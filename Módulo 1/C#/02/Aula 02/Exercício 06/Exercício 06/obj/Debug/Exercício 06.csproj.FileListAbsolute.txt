@@ -1,0 +1,7 @@
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\obj\Debug\Exercício 06.csproj.AssemblyReference.cache
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\obj\Debug\Exercício 06.csproj.CoreCompileInputs.cache
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\bin\Debug\Exercício 06.exe.config
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\bin\Debug\Exercício 06.exe
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\bin\Debug\Exercício 06.pdb
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\obj\Debug\Exercício 06.exe
+C:\Users\7710062\Downloads\Projetos\Aula 02\Exercício 06\Exercício 06\obj\Debug\Exercício 06.pdb
