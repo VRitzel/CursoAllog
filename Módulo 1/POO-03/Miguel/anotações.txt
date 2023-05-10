@@ -1,1 +1,11 @@
 
+Princícpios básicos de poo
+1- abstração
+2- encapsulamento
+3- herança
+4- polimorfismo
+
+pesquisar mais depois sobre o problema do diamante
+pesquisar pq caralhos getters e setters são importantes
+
+UML é chatão pra porra, mas útil pra caralho
