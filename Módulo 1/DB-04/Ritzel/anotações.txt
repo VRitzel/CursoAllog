@@ -3,3 +3,43 @@ Informações: dados ordenados, possuindo um significado
 Conhecimento: conjunto de informações
 Banco de dados: coleção de dados, representando informações sobre uma área específica
 Persistência: Salvar os dados em algum lugar para que seja recuperado de maneira consistente futuramente
+Tipos:
+  Hierárquico
+  Rede
+  OO
+  Relacional
+  Não Relacional
+  NewSQL
+
+Modelo Relacional:
+  Conceito:
+    - Coleção de relações
+    - Cada relação terá um nome único e um conjunto de atributos (com seus nomes e domínios)
+      - Conectam dados em tabelas diferentes, usando um campo chave
+        - Cada tabela tem um campo chave que identifica unicamente cada linha
+        - Tabela e relação
+  Vantagens:
+    - Pode ser modificiado
+    - Possui padrão
+  Desvantagens:
+    - Busca pode levar mais tempo
+    - Sofre com limitações de escalabilidade
+  Terminologia:
+    - Linha = Tupla
+    - Coluna = Atributo
+    - Tabela = Relação
+  Chave primária
+    - Identificador único da tupla
+  Chave estrangeira
+    - Usado para relacionar uma tabela a outra
+    - Pode ser nula
+    - Pode referenciar a sua própria tabela
+    Ações Referenciais:
+      - Cascade: atualiza ou exclui os registros da tabela filha automaticamente, ao atualizar ou excluir um registro da tabela pai.
+      - Restrict: rejeita a atualização ou exclusão de um registro da tabela pai, se houver registros na tabela filha.
+      
+  Integridade:
+    
+
+
+     
