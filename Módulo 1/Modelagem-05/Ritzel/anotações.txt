@@ -19,3 +19,10 @@ DER: Diagrama Entidade-Relacionamento
   - Entidades
   - Atributos
   - Relacionamentos
+  
+Projeto lógico:
+  Descreve como os dados serão armazenados no banco
+  
+  Vendas(id, data, valor_total, status)
+  veiculo(id, nome, ano, valor, descrição, tipo, status)
+  venda_veiculo(id, id_venda, id_veiculo, quantidade)
