@@ -1,1 +1,16 @@
+PostgreSQL
+  - SGBD
+  Login:
+    - IP: Localhost
+    - Port: 5462/3306
+    - User: Postgres
+    - PW: 123456
+    
+Tipos de users:
+  - Projetista
+  - Dev
+  - Admin
+  
+Requisito do sistema: funções
 
+Projeto Conceitual: "teoria", necessidades do sistema
