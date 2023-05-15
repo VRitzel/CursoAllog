@@ -14,3 +14,8 @@ Tipos de users:
 Requisito do sistema: funções
 
 Projeto Conceitual: "teoria", necessidades do sistema
+
+DER: Diagrama Entidade-Relacionamento
+  - Entidades
+  - Atributos
+  - Relacionamentos
