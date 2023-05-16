@@ -46,7 +46,7 @@ Introdução ao C#
     - Instalar .NET
     - Extensão do VS Code (C#)
     - Criar projeto
-    - Eecutar no terminal o comando: dotnet new console
+    - Executar no terminal o comando: dotnet new console
     - Rodar o projeto
     - Executar no terminal o comando: dotnet run
     
