@@ -14,3 +14,7 @@ tipos de linguagem relacional:
   
   consulta tem (select) de (table) usados em dados
 
+tamo criando as tabela ;P
+
+as putaria de primary key é legal
+as putaria do que cada comando faz não vou digitar não, ve lá nos slides depois de bater a dúvida
