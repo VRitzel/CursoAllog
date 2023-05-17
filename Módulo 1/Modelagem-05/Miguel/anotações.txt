@@ -18,3 +18,4 @@ tamo criando as tabela ;P
 
 as putaria de primary key é legal
 as putaria do que cada comando faz não vou digitar não, ve lá nos slides depois de bater a dúvida
+se tu quer pegar na tabela um elemento que possui uma coluna nula, ao envés de da um inner join da um left/right join
