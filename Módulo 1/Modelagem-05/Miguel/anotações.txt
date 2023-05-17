@@ -1,1 +1,16 @@
+os bagulho de data e hora tem que ser bem arrumadinho se não da merda, mas se for muito errado o próprio banco de dados da um jeito de falar que deu merda
+varchar salva somente os char que foram utilizados, ja o char não, ele salva o tamanho que foi lhe dado. Ex: varchar(5) = "ana", char(5) = "ana  "
+blob deixa o banco mais lento, por isso nós usa o varchar grandão
+dicionário de dados é mó chatão pq tudo que guarda informação nessa porra tem que ter uma tabelinho com as informação ultra detalhada
+da pra salvar as coisa com máscara, então quando vai fazer um varchar é pra contar as porrinha que fica no meio da informação
+ele ta fazendo o dicionário de dados no .doc lá no bagulhos dos materiais, olha lá depois
+quando for muitos pra muitos é pra colocar os id das tabelas como primário
+agora tamo fazendo o mer na prática
+
+tipos de linguagem relacional:
+  definição tem (create, alter, drop) de (coisas, com o foco da aula em database e table)
+  
+  manipulação tem (insert into, update, delete) de table usado em dados
+  
+  consulta tem (select) de (table) usados em dados
 
