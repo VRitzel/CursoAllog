@@ -1,0 +1,15 @@
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\bin\Debug\net7.0\NullCoalescingAssignmentOperator.exe
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\bin\Debug\net7.0\NullCoalescingAssignmentOperator.deps.json
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\bin\Debug\net7.0\NullCoalescingAssignmentOperator.runtimeconfig.json
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\bin\Debug\net7.0\NullCoalescingAssignmentOperator.dll
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\bin\Debug\net7.0\NullCoalescingAssignmentOperator.pdb
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.csproj.AssemblyReference.cache
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.AssemblyInfoInputs.cache
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.AssemblyInfo.cs
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.csproj.CoreCompileInputs.cache
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.dll
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\refint\NullCoalescingAssignmentOperator.dll
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.pdb
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\NullCoalescingAssignmentOperator.genruntimeconfig.cache
+C:\Users\7710062\Downloads\NullCoalescingAssignmentOperator\obj\Debug\net7.0\ref\NullCoalescingAssignmentOperator.dll
