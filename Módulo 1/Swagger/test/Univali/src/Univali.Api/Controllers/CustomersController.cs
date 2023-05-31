@@ -1,4 +1,4 @@
-otnusing Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Univali.Api.Entities;
 using Univali.Api.Models;
 namespace Univali.Api.Controllers;
