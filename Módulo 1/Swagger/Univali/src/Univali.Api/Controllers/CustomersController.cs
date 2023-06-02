@@ -5,10 +5,9 @@ namespace Univali.Api.Controllers;
 [ApiController]
 [Route("api/customers")]
 public class CustomersController : ControllerBase{
-
+    
     [HttpGet]
-    public ActionResult<IEnumerable<Customer>> GetCustomers(){
-        
+    public ActionResult<IEnumerable<Customer>> GetCustomers(){   
         var result = Data.getInstance().Customers;
         return Ok(result);
     }
